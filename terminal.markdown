@@ -132,19 +132,21 @@ Some common settings to change:
 # Some Premade packages
 
  * Sexy Bash Prompt - https://github.com/twolfson/sexy-bash-prompt
+
  * Powerline Shell  - https://github.com/banga/powerline-shell
+
  * Make your own! - http://bashrcgenerator.com/
 
 # Basic Linux File Structure
 
- * / - root 
- * /home - Home directories
- * /bin - Executables
- * /etc - Configuration files
+ * /          - root 
+ * /home      - Home directories
+ * /bin       - Executables
+ * /etc       - Configuration files
  * /usr/local - Unprivileged file storage
- * /opt - Optional files, Extra
- * /var - Variable files
- * /proc - System Generated system info
+ * /opt       - Optional files, Extra
+ * /var       - Variable files
+ * /proc      - System Generated system info
 
 
 # Compiling Code - Makefiles
@@ -163,6 +165,7 @@ Helps you automate specific tasks needed when compiling.
  * mkdir - Make Directory
  * pwd - Print Working Directory
  * cp - Copy
+ * scp - Secure Copy
  * mv - Move
  * vim - A great text editor in the terminal
  * tmux - Terminal Multiplexer
@@ -172,11 +175,11 @@ Helps you automate specific tasks needed when compiling.
 
 # Thank You for Coming!
 
-Questions???
+                              Questions???
 
 Look forward to the other Newbie Week presentations:
 
- Monday - vim
+ Monday  - vim
  Tuesday - Beautiful Desktops
 <!--
 vim:tw=80:ft=markdown:
